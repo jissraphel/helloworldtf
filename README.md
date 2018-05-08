@@ -1,2 +1,3 @@
 # helloworldtf
-tensorflow hellow world
+tensorflow train, predict at one go
+happy deep learning
